@@ -1,0 +1,45 @@
+body{
+	margin: 50px;
+	padding:50px;
+	background: #f2f5fe;
+	font: 70% 160% "verdana", sans-serif;
+	color: #192666;
+}
+#titulo{
+	font-size: 260%;
+	font-family: "georgia", serif;
+	font-weight: normal;
+}
+#subtitulo{
+	font-size: 180%;
+	font-family: "georgia", serif;
+	font-weight: center;
+}
+#texto{
+	font-size: 120%;
+	font-family: "georgia", serif;
+	font-weight: normal;
+}
+a{
+	color: #192666;
+}
+a:hover {
+	color: #4f6ad7;
+}
+.clear{
+	clear: both;
+}
+#encabezado{
+	width: 1050px;
+	position: relative;
+	height: 100px;
+	margin: 0;
+	padding: 0;
+	background: #fff;
+	color: #233c9b;
+}
+#tabla{
+	width: 1050px;
+	margin: 10px;
+	padding: 15px;
+}
